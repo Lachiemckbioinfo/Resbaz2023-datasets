@@ -22,8 +22,8 @@ Install the dependencies using:
 ```bash
 pip install numpy matplotlib pandas
 pip install scipy seaborn
-git clone https://github.com/Lachiemckbioinfo/Resbaz2023_datasets.git
-cd Resbaz2023_datasets
+git clone https://github.com/Lachiemckbioinfo/Resbaz2023-datasets.git
+cd Resbaz2023-datasets
 ```
 ## Workshop Agenda
 
