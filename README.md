@@ -21,3 +21,26 @@ Install the dependencies using:
 
 ```bash
 pip install numpy matplotlib pandas
+pip install scipy seaborn
+git clone https://github.com/your-username/resbaz2023-workshop.git
+cd resbaz2023-workshop
+```
+## Workshop Agenda
+Introduction to ChatGPT and its applications in data science.
+Overview of the example datasets provided in the datasets directory.
+Walkthrough of the pre-made scripts in the scripts directory.
+Hands-on exercises: Use ChatGPT to generate Python code for graph generation.
+Q&A and discussion.
+
+## Additional Resources
+
+- [ChatGPT Documentation](https://docs.openai.com/models/gpt/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Scipy Documentation](https://docs.scipy.org/doc/)
+- [Seaborn Documentation](https://seaborn.pydata.org/documentation.html)
+
+## Feedback
+We appreciate your feedback! If you have any suggestions or encounter issues during the workshop, please create an issue in this repository.
+
+This readme was generated with ChatGPT. Happy coding!
