@@ -1,6 +1,6 @@
 # ResBaz2023 Workshop: Generating Graphs using Python and ChatGPT
 
-Welcome to the "Generating Graphs using Python and ChatGPT" workshop, part of ResBaz2023. This repository contains example datasets and pre-made scripts to help you learn how to leverage ChatGPT to code Python graphs for data science purposes. This is for the workshop "Generating Graphs using Python and ChatGPT" for the [(2023 Brisbane ResBaz conference)](https://resbaz.github.io/resbaz2023qld/).
+Welcome to the "Generating Graphs using Python and ChatGPT" workshop, part of ResBaz2023. This repository contains example datasets and pre-made scripts to help you learn how to leverage ChatGPT to code Python graphs for data science purposes. This is for the workshop "Generating Graphs using Python and ChatGPT" for the [2023 Brisbane ResBaz conference](https://resbaz.github.io/resbaz2023qld/).
 
 ## Workshop Overview
 
