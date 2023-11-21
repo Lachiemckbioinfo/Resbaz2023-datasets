@@ -43,8 +43,16 @@ cd Resbaz2023-datasets
 - [ChatGPT Documentation](https://docs.openai.com/models/gpt/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Scipy Documentation](https://docs.scipy.org/doc/)
-- [Seaborn Documentation](https://seaborn.pydata.org/documentation.html)
+
+## Other useful Python libraries
+These libraries are not part of this workshop, but are incredibly useful for data scientists using Python.
+- [Scipy](https://docs.scipy.org/doc/)
+- [Seaborn](https://seaborn.pydata.org/documentation.html)
+
+These can be installed with pip:
+```
+pip install scipy seaborn
+```
 
 ## Feedback
 We appreciate your feedback! If you have any suggestions or encounter issues during the workshop, please create an issue in this repository.
