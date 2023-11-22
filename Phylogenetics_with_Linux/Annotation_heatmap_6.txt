@@ -1,0 +1,42 @@
+DATASET_HEATMAP
+
+SEPARATOR TAB
+
+DATASET_LABEL	Example_heatmap
+
+COLOR	#FF0000
+
+FIELD_LABELS	field_1	field_2	field_3	field_4
+
+
+DATA
+Mycoplasma_gallisepticum_gi|31541629|gb|AAP56929.1|	11	1	5	1
+Mycoplasma_genitalium_gi|3844775|gb|AAC71398.1|	15	12	20	14
+Mycoplasma_agalactiae_gi|290752802|emb|CBH40777.1|	0	17	13	18
+Mycoplasma_hyopneumoniae_gi|71851738|gb|AAZ44346.1|	16	0	11	14
+Mycoplasma_genitalium_gi|84626133|gb|AAC71526.2|	7	19	13	5
+Mycoplasma_agalactiae_gi|290752801|emb|CBH40776.1|	17	2	16	20
+Mycoplasma_hyopneumoniae_gi|71851739|gb|AAZ44347.1|	5	8	3	1
+Mycoplasma_genitalium_gi|3844776|gb|AAC71399.1|	4	13	3	18
+Mycoplasma_gallisepticum_gi|31541628|gb|AAP56928.1|	15	5	1	17
+Mycoplasma_genitalium_gi|3844882|gb|AAC71525.1|	8	2	3	18
+Mycoplasma_gallisepticum_gi|284811859|gb|AAP56391.2|	2	9	1	6
+Mycoplasma_genitalium_gi|3845003|gb|AAC71638.1|	7	9	0	20
+Mycoplasma_genitalium_gi|3845062|gb|AAC72487.1|	11	17	15	14
+Mycoplasma_gallisepticum_gi|31541070|gb|AAP56372.1|	0	12	14	9
+Mycoplasma_genitalium_gi|3845064|gb|AAC72489.1|	15	2	16	3
+Mycoplasma_genitalium_gi|1045740|gb|AAC71283.1|	18	19	8	16
+Mycoplasma_hyopneumoniae_gi|144227640|gb|AAZ44535.2|	3	4	5	17
+Mycoplasma_agalactiae_gi|290753081|emb|CBH41057.1|	1	4	17	20
+Mycoplasma_gallisepticum_gi|31541268|gb|AAP56569.1|	16	2	8	7
+Mycoplasma_genitalium_gi|1045987|gb|AAC71511.1|	2	5	14	3
+Mycoplasma_hyopneumoniae_gi|71851837|gb|AAZ44445.1|	13	14	9	1
+Mycoplasma_agalactiae_gi|290752526|emb|CBH40498.1|	16	5	5	0
+Mycoplasma_agalactiae_gi|290752592|emb|CBH40564.1|	11	20	11	17
+Mycoplasma_agalactiae_gi|290752894|emb|CBH40869.1|	19	6	5	17
+Mycoplasma_gallisepticum_gi|284812058|gb|AAP56715.2|	15	0	0	5
+Mycoplasma_genitalium_gi|1045683|gb|AAC71230.1|	10	9	4	14
+
+
+
+
